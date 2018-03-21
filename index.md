@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Whistler Festschrift Hack-a-Python
 
 ## Attendees
