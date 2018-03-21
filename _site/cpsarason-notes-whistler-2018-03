@@ -1,5 +1,0 @@
-## Workflow for getting presentations from powerpoint to reveal.js
-
-1. Export powerpoint to PNG files
-2. create a src file that sucks these PNGs into the reveal.js framework
-3. publish. 
