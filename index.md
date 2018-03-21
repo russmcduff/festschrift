@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Whistler Festschrift Hack-a-Python
+# Whistler Festschrift Hack-a-thon
 
 ## Attendees
 
