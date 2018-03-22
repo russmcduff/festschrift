@@ -1,0 +1,138 @@
+﻿Ships, noise pollution, & starving sea pandas
+
+
+1. I'm so pleased to talk today in honor of Russ who mentored me as a graduate student and has remained a dear friend.  I came to him as a environmental science major in 1995 and after studying hydrothermal plumes together, I was eager to help solve environmental problems.  
+
+
+1. One such problem in the Pacific Northwest is the low population of southern resident killer whales.  These fish-eating orcas were listed as endangered in 2005 after a precipitous decline -- just as I began teaching undergrads about bioacoustics through my non-profit, Beam Reach.  
+
+
+1. We chose to help save the orcas because they are beloved charismatic megafauna (thanks to the Free Willy movies).  Surely mundane marine species are doomed if we can't prevent extinction of what are essentially "sea pandas."
+
+
+1. NOAA's recovery plan lists the risks southern residents face: lack of their prefered prey, Chinook salmon; persistent pollutants accumulated in their blubber; and disturbance from vessels -- either physical or acoustic.
+
+
+1. We focused on acoustics because, unlike all the other risks, reducing underwater noise is feasible on short time scales.  Recordings of orcas like this one have low background noise, but about 20 times per day a passing ship raises noise levels.
+
+
+1. To assess the potential impacts of ship noise, we measured sound pressure level in prime orca habitat: adjacent to the shipping lanes in Haro Strait.  Building on a decade of hydrophone deployment experience, we sampled ~1,600 unique ships over two years.
+
+
+1. We were surprised to find that ships elevate background noise levels not only near 40 Hz where baleen whales hear well, but also at 40 kHz -- high frequencies used by killer whales in search of salmon.
+
+
+1. The good news is that ship noise varies.  Military vessels are quieter than container ships, especially at low frequencies.  Within most classes, ships can lower their broadband noise 1 decibel by going 1 knot slower.
+
+
+1. The bad news is that ship noise is intense and extends to frequencies used by orcas to both call and echolocate.  This is what a typical ship sounds like.  Outlier ships can sound much more disturbing... 
+
+
+1. Outlier example: Play recordings of atypical (tonal) high intensity ship
+Such temporal variations may exacerbate impacts predicted for more typical ship noise...
+
+
+   1. Does this noise matter -- whether we're considering the median spectra or an outlier ship?  Our ears and minds may perceive the noise as irritating, but how it impacts orcas and other marine organisms is trickier to assess. 
+
+
+   1. One modeling approach is to estimate the volume of the ocean in which an animal can communicate or forage.  The maximum volume is available during quiet conditions.  Noise added by ships shrinks the volume to some percentage of the maximum.
+
+
+   1. Using such a model and preliminary ship noise spectra, we estimate that a typical ship reduces communication space by 95%.  A similar study by Miller et al. estimated 75%.
+
+
+   1. Our model also predicts that ship noise approximately halves the range at which a killer whale can hear the echo of its sonar pulse off of a Chinook’s swim bladder.  
+
+
+   1. Communication graphic:
+So are ships starving the sea pandas?  Well, 20 ships/day each increase noise levels for at least 30 minutes to levels.  That’s 40% of their day.
+
+
+      1. Foraging graphic:
+During that time their communication volumes are reduced by 75-95% and the effectiveness of their directional echolocation is halved.
+
+
+         1. We need better data on their foraging strategies and the spatial distribution of Chinook to fully answer the question, but it seems certain that if we can reduce ship noise, we should.  Williams et al have estimated that just a 10% decrease in their Chinook supply would cause the population to go extinct.
+
+
+         1. Thankfully, there is hope on the horizon.  The International Maritime Organization has proposed noise limits for the shipping industry.  And some companies have reduced noise levels through “slow-steaming initiatives” that also save fuel (and money).
+
+
+         1. On a local level, we have high noise levels throughout the Salish Sea and the future’s not clear.  The Port of Metro Vancouver is studying ship noise and how to incentivize quieting technologies, but multiple development projects along the coast project increased shipping traffic.
+
+         2. On a planet where human population and consumption are still growing (but will hopefully peak in our lifetimes) solving the problem of ocean noise may be tough.  To succeed, we should conserve areas that are still quiet, mitigate extant noise sources, and all strive to reduce our demand for global shipping.
+
+         3. Time's up!
+Leave this slide blank to mark the end of your 5-minute time allowance?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More modeling?
+Mitigation?  Of ship noise?  Of boat noise?!
+
+
+or
+New projects: impacts on other species?
+
+
+
+
+Crowd-funding campaign?
+
+
+NOAA acoustic ecology diagram?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Back in 19.. Erbe et al. assessed the impact of noise from whale watching boats on southern residents. They found... 
+
+
+Later, in 20xx, Miller et al discerned...
+
+
+Or Jason/Dom EIS results? 
+
+
+Clark insights?
+
+
+Veirs +/- Rob?
+
+
+
+
+
+
+
+The crux of an impact model is a huge data gap: the spatial distribution of salmon.  A rough estimate of the density suggests that the acoustic reduction in foraging volume could reduce the Chinook supply of the SRKWs by XX%.
+Is a spatio-temporal foraging model the solution? or is there a simpler way?
